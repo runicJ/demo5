@@ -85,6 +85,10 @@ __굵은 글씨__
 [id]: URL "Optional Title here"
 Link: Google
 
+- 링크걸기
+<https://www.naver.com>
+[네이버](www.naver.com)
+
 8-2) 자동연결
 일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성
 
