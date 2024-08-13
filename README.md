@@ -152,4 +152,3 @@ Click Me
 마크다운으로 글을 작성하다 보면 * 문자나 _ 문자 등을 사용하고 싶은 경우 \ 문자로 회피
 강조는 \* 문자 혹은 \_ 문자를 사용
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
